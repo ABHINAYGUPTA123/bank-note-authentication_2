@@ -1,3 +1,4 @@
 # Bank-note-authentication
 URL - https://bank-note-authenticator-2.herokuapp.com/
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.in%2Fphotos%2Findian-currency&psig=AOvVaw2dxgErAKb-tvuNGBOAeCEh&ust=1622914724522000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCtqpbC_vACFQAAAAAdAAAAABAE
+![image](https://user-images.githubusercontent.com/63563673/120842189-02ea4b80-c58a-11eb-82fd-7a3bcd682b96.png)
+
